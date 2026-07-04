@@ -28,6 +28,15 @@ Analizar las ventas, beneficios, clientes, productos y regiones de una empresa r
 14. Hallazgos
 15. Recomendaciones
 
+## SQL Conceptos Usados
+
+- Agregaciones (SUM, COUNT, AVG)
+- GROUP BY
+- ORDER BY
+- CASE WHEN
+- CTE
+- Window Functions (RANK)
+
 ## Archivos
 
 - queries.sql
