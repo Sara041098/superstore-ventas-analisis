@@ -37,11 +37,11 @@ Analizar las ventas, beneficios, clientes, productos y regiones de una empresa r
 - CTE
 - Window Functions (RANK)
 
-## Descubrimiento de los problemas principales
+## Principales hallazgos
 
-- El riesgo de los productos con altos costes base
-- La aplicación de descuentos agresivos e indiscriminados
-- La ineficiencia operativa de la región Central
+- Productos especialmente sensibles a descuentos y reducción de márgenes
+- La aplicación de descuentos agresivos y su relación con la reducción del beneficio
+- La región Central presenta una eficiencia significativamente inferior al resto
 
 ## Recomendaciones
 
