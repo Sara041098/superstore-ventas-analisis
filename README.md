@@ -37,6 +37,25 @@ Analizar las ventas, beneficios, clientes, productos y regiones de una empresa r
 - CTE
 - Window Functions (RANK)
 
+## Descubrimiento de los problemas principales
+
+- El riesgo de los productos con altos costes base
+- La aplicación de descuentos agresivos e indiscriminados
+- La ineficiencia operativa de la región Central
+
+## Recomendaciones
+
+- Regular la política de descuentos máximos
+- Vincular los descuentos comerciales al margen estructural de cada producto
+- Auditoría comercial y plan de choque en la región Central
+
+
+## KPI de seguimiento
+
+-El descuento medio aplicado en subcategorías críticas.
+-El Margen de beneficio global de la región Central (buscando elevarlo del 7.92% al 13%).
+-La eliminación de márgenes negativos por transacción.
+
 ## Archivos
 
 - queries.sql
