@@ -52,9 +52,9 @@ Analizar las ventas, beneficios, clientes, productos y regiones de una empresa r
 
 ## KPI de seguimiento
 
--El descuento medio aplicado en subcategorías críticas.
--El Margen de beneficio global de la región Central (buscando elevarlo del 7.92% al 13%).
--La eliminación de márgenes negativos por transacción.
+- El descuento medio aplicado en subcategorías críticas.
+- El Margen de beneficio global de la región Central (buscando elevarlo del 7.92% al 13%).
+- La eliminación de márgenes negativos por transacción.
 
 ## Archivos
 
